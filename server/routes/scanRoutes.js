@@ -12,9 +12,10 @@ router.post('/scan', async (req, res) => {
 
         const scanResult = await runScan(url);
 
-        res.json(result);
+        res.json(scanResult);
     } catch (error) {
-        res.status(500).json({ error: 'An error occurred while scanning'});
+        console.error('scan error:', error);
+        res.status(500).json({ error: 'An error occurred while scanning' });
     }
     console.log(req.body);
 });
