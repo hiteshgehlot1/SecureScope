@@ -10,11 +10,11 @@
 
 Give it a website URL, and SecureScope will:
 
-* 🔍 Scan for common security vulnerabilities
-* 🧪 Perform passive and safe checks only
-* 📊 Generate a clean, understandable security report
-* 🚦 Display risk levels like Low, Medium, High, or Critical
-* 🧠 Simplify technical findings into plain language
+*  Scan for common security vulnerabilities
+*  Perform passive and safe checks only
+*  Generate a clean, understandable security report
+*  Display risk levels like Low, Medium, High, or Critical
+*  Simplify technical findings into plain language
 
 Think of it as a security flashlight instead of a battering ram. ⚡
 
